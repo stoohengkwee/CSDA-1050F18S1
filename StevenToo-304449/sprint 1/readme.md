@@ -54,6 +54,7 @@ db.getCollection('business').find({$and:[{'categories':{$regex: '.*Restaurants.*
 ```
 db.getCollection('reviews_bulk').find({'date':{$regex:'2018'}})
 ```
+![](https://github.com/stoohengkwee/CSDA-1050F18S1/blob/master/StevenToo-304449/sprint%201/MongoDB.JPG)
 
 #### MongoDB bypass
 
