@@ -1,4 +1,6 @@
-# Sprint 1 - Yelp Restaurant Reviews odule containsto gather data according to the research question, prepare the data and perform same exploratory analysis.
+# Sprint 1 - Yelp Restaurant Reviews and Ratings Analysis
+
+This module contains the process undertaken to gather data according to the research question, prepare the data and perform exploratory analysis.
 
 ### Research Question
 
