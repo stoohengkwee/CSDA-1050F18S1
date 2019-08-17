@@ -73,6 +73,6 @@ Vectorization process has proven to be a very slow process impeding delivery of 
 
 ### Next steps
 - Review the vectorization process. Process takes too long.
-- Review the whole modelling concept. Star rating prediction so far based on current ratings. Reasearch to continue in getting a rating based on reviews and sentiment alone.
+- Review the whole modelling concept. Star rating prediction so far based on current ratings. Research to continue in getting a rating based on reviews and sentiment alone.
 - Wrap everything up. Create detailed document and presentation brief.
 
