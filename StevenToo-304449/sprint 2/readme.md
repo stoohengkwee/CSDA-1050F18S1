@@ -71,8 +71,11 @@ Vectorization process has proven to be a very slow process impeding delivery of 
 - Normalizing the dataset to have equal number of reviews might correct this.
 - We are able to accurate predict the user star rating according to their reviews
 
-### Next steps
+### Next Step
+- Wrap everything up. Create detailed document and presentation brief.
+
+### Bucket list
 - Review the vectorization process. Process takes too long.
 - Review the whole modelling concept. Star rating prediction so far based on current ratings. Research to continue in getting a rating based on reviews and sentiment alone.
-- Wrap everything up. Create detailed document and presentation brief.
+
 
