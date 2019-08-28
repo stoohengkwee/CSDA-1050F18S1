@@ -5,7 +5,7 @@ Millions of people use Yelp restaurant reviews in their food choice decision-mak
 ## Project Outline
 
     - Proposal - project background, initial research question, intended modelling/analysis, schedule/timelines.
-    - Sprint 1 - data gathering, data cleaning, and exploratory data analysis (EDA).
+    - Sprint 1 - data ETL, data cleaning, and exploratory data analysis (EDA).
     - Sprint 2 - main modelling/analysis.
     - Sprint 3 - final report and presentation of highlights of report.
     - Data - Dataset extracted from Yelp and MongoDB 
@@ -22,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 - Python v3 and Pymongo package.
 
-Other basics packages: pandas numpy plotly textblob nltk wordcloud seaborn matplotlib.
+Other basics packages: pandas, numpy, plotly, nltk, wordcloud, seaborn, matplotlib, sci-kit learn.
 
 In case you need to install packages, do a "pip install <package name> from the anaconda concole.
 
