@@ -4,10 +4,11 @@ Millions of people use Yelp restaurant reviews in their food choice decision-mak
 
 ## Project Outline
 
-    Proposal - project background, initial research question, intended modelling/analysis, schedule/timelines.
-    Sprint 1 - data gathering, data cleaning, and exploratory data analysis (EDA).
-    Sprint 2 - main modelling/analysis.
-    Sprint 3 - final report and presentation of highlights of report.
+    - Proposal - project background, initial research question, intended modelling/analysis, schedule/timelines.
+    - Sprint 1 - data gathering, data cleaning, and exploratory data analysis (EDA).
+    - Sprint 2 - main modelling/analysis.
+    - Sprint 3 - final report and presentation of highlights of report.
+    - Data - Dataset extracted from Yelp and MongoDB 
 
 ### Research Question
 
